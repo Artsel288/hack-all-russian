@@ -1,5 +1,3 @@
-# hack-all-russian
-
 <div align=center><img src= https://www.gazprom-media.com/storage/uploads/news/image/0/6/387/6387/b90f6856351bbabd26dc7a4718f10c03-webp.webp align=center width=300 margin=0/></div><h1 align=center>Решение кейса "Предсказание социально-демографических характеристик пользователя" в рамках хакатона Цифровой прорыв</h1>
 
 
