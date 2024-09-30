@@ -14,7 +14,7 @@
 - Inference.ipynb - файл с инференсом модели
 - EDA.ipynb - файл с визуализациями и анализом данных
 - TuneModel.ipynb - обучение модели
-## ссылки на веса моделей
+## Ссылки на веса моделей
 - https://drive.google.com/file/d/1-1zbygS4sjdAHsVfm2gcw7TmySoOP6TR/view - модель для предсказывания возраста
 - https://drive.google.com/file/d/1iESRfHqM5S3vU9eSWACEKemnoj2Ed21d/view?usp=drive_link - модель для предсказывания пола
 **CUrious**
